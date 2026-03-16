@@ -3,24 +3,14 @@ layout: page
 title: Lodging Information
 ---
 
-The conference hotel is [Howard Johnson Inn Flagstaff University West](https://www.wyndhamhotels.com/hojo/flagstaff-arizona/howard-johnson-inn-flagstaff-university-west/overview?CID=LC:HJ:20160927:Rio:Local&iata=00065402 ).
+The conference hotel is [Embassy Suites by Hilton Flagstaff]([https://www.wyndhamhotels.com/hojo/flagstaff-arizona/howard-johnson-inn-flagstaff-university-west/overview?CID=LC:HJ:20160927:Rio:Local&iata=00065402](https://www.hilton.com/en/hotels/flgeses-embassy-suites-flagstaff/?SEO_id=GMB-AMER-ES-FLGESES&y_source=1_MTEwOTk1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D) ).
 
 <p>
-Howard Johnson Inn Flagstaff University West<br />
-801 West Route 66<br />
+Embassy Suites by Hilton Flagstaff<br />
+706 S Milton Rd<br />
 Flagstaff, AZ  86001<br />
-928.774.3381
+928.774.4333
 </p>
 
-The hotel is an 9-minute walk from the [Adel Mathematics building](https://www.google.com/maps/place/Adel+Mathematics+Center/@35.1908567,-111.6583235,17z/data=!3m1!4b1!4m5!3m4!1s0x872d8f6796f65c15:0x63271913fc89653a!8m2!3d35.1908567!4d-111.6561348), which is where most of the conference will take place. A block of 25 doubles and 8 singles is reserved for March 31-April 2.  The cost is $69/night + tax.  The doubles can hold 2-4 people and the cost is the same regardless of the number of occupants.  The hotel has light breakfast (e.g., cereal, oatmeal, hard-boiled eggs, some kind of pastry, juice, coffee, and tea) available in the morning at no additional cost. Faculty can call the hotel and reserve rooms that are blocked off for the "SUnMaRC mathematics conference".
+The hotel is a 10-minute walk from the [Lumberjack Math Center]([https://www.google.com/maps/place/Adel+Mathematics+Center/@35.1908567,-111.6583235,17z/data=!3m1!4b1!4m5!3m4!1s0x872d8f6796f65c15:0x63271913fc89653a!8m2!3d35.1908567!4d-111.6561348](https://www.google.com/maps/place/Lumberjack+Mathematics+Center+–+NAU/@35.1876189,-111.6566703,16z/data=!3m1!4b1!4m6!3m5!1s0x872d8f68a9cd7ccd:0x36ae0e4805e491f1!8m2!3d35.1876189!4d-111.6541007!16s%2Fg%2F11hy9pdmy8?entry=ttu&g_ep=EgoyMDI2MDMxNS4wIKXMDSoASAFQAw%3D%3D)), which is where the conference will take place. A block of 30 triple rooms is reserved for April 17-April 19.  The rooms are covered by the conference and come with breakfast.
 
-There is also a small block of rooms reserved at the [Drury Inn](https://www.druryhotels.com/locations/flagstaff-az/) for a reduced rate.  
-
-<p>
-Drury Inn & Suites Flagstaff<br />
-300 South Milton Road<br />
-Flagstaff, AZ  86001<br />
-928.773.4900
-</p>
-
-This hotel is a five-minute walk from Adel Mathematics. If you are interested in reserving a room at the Drury Inn, please contact our administrative assistant [Bea Gallegos](emailto:Beatrice.Gallegos@nau.edu) at 928.523.4220 instead of calling the hotel directly.
