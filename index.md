@@ -10,8 +10,9 @@ title: SUnMaRC 2026
 If you have any questions about this year's SUnMaRC, please contact one of the conference organizers:
 
 - [Jeff Rushall](mailto:jeffrey.rushall@nau.edu)
-- [Dana Ernst](mailto:dana.ernst@nau.edu)
-- [Nellie Gopaul](mailto:Nellie.Gopaul@nau.edu)
-- [Tiffany Lenhart](mailto:Tiffany.Lenhart@nau.edu)
+- [Matt Fazio](mailto:matthew.fazio@nau.edu)
+- [Ian Williams](mailto:Ian.Williams@nau.edu)
+- [Luke Alvarez](mailto:Luke.Alvarez@nau.edu)
+- [Ryn Huesgen](mailto:Ryn.Huesgen@nau.edu)
 
 <p>This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://hyde.getpoole.com">Hyde</a>. You can find the <a href="http://github.com/NAUMathStat/seminars">source code</a> on GitHub. The site is maintained by <a href="http://dcernst.github.io">Dana C. Ernst</a>. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
