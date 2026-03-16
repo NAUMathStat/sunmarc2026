@@ -11,11 +11,11 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               SUnMaRC 2017
+title:               SUnMaRC 2026
 tagline:             'Northern Arizona University'
-description:         'SUnMaRC 2017'
+description:         'SUnMaRC 2026'
 url:                 'http://NAUMathStat.github.io'
-baseurl:             '/sunmarc2017'
+baseurl:             '/sunmarc2026'
 paginate:            10
 
 # About/contact
@@ -29,4 +29,4 @@ version:             1.0.0
 
 # GitHub
 github:
-  repo:             github.com/NAUMathStat/sunmarc2017
+  repo:             github.com/NAUMathStat/sunmarc2026
