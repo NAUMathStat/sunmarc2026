@@ -5,7 +5,7 @@ title: Schedule
 
 An overview of the schedule for the conference is provided below.  Student talks are 20 minutes long and should include time for questions at the end. We suggest you plan a talk that lasts 17-18 minutes and allow 2-3 minutes for questions. Student talks will be in SAS 201A and in SAS 221A, and main speaker talks will be in SAS 211. Additional information:
 
-#- [Overview of schedule](https://naumathstat.github.io/sunmarc2017/schedule.pdf) (PDF)
+<!--#- [Overview of schedule](https://naumathstat.github.io/sunmarc2017/schedule.pdf) (PDF)
 #- [Bios, titles, and abstracts for faculty speakers](https://naumathstat.github.io/sunmarc2017/speakers/)
 #- [Titles and abstracts for student talks](https://naumathstat.github.io/sunmarc2017/abstracts.pdf) (PDF)
 
@@ -49,7 +49,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <!-- * -->
 
-#<table>
+<!-- #<table>
 #<thead>
 #<tr>
 #<th colspan="4" style="text-align: center;">Saturday, April 1</th>
@@ -163,7 +163,7 @@ An overview of the schedule for the conference is provided below.  Student talks
 
 <!-- * -->
 
-#<table>
+<!-- #<table>
 #<thead>
 #<tr>
 #<th colspan="4" style="text-align: center;">Sunday, April 2</th>
@@ -201,4 +201,4 @@ An overview of the schedule for the conference is provided below.  Student talks
 #<td colspan="2">Lunch</td>
 #<td>Adel Lobby</td>
 #</tr>
-#</table>
+#</table> 
