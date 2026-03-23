@@ -10,7 +10,8 @@ The goal of the conference is to welcome undergraduates to the wonderful world o
 
 <p>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGEUGVj5rWSqQs_saBAoYbjUi5G8kpfIUhm23oivsyhDcYvw/viewform?usp=header"> Registration Link
-</a>p>
+</a>
+</p>
 
 <!--
 <p>The deadline for registration and abstract submission was <b>Monday, March 6, 2017</b>.</p>
