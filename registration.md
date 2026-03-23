@@ -10,7 +10,7 @@ The goal of the conference is to welcome undergraduates to the wonderful world o
 
 <p>
 <center>
-<button class="button"><a href="">(https://docs.google.com/forms/d/e/1FAIpQLSeGEUGVj5rWSqQs_saBAoYbjUi5G8kpfIUhm23oivsyhDcYvw/viewform?usp=header)</a></button>
+<button class="button"><a href="">("https://docs.google.com/forms/d/e/1FAIpQLSeGEUGVj5rWSqQs_saBAoYbjUi5G8kpfIUhm23oivsyhDcYvw/viewform?"usp=header)</a></button>
 </center>
 </p>
 
