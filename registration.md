@@ -5,15 +5,16 @@ title: Registration & Abstract Submission
 
 The goal of the conference is to welcome undergraduates to the wonderful world of mathematics research, to develop and foster a rich social network between the mathematics students and faculty throughout the great Southwest, and to celebrate the accomplishments of our undergraduate students. We encourage undergraduate students from all years of study to participate and give presentations in any area of mathematics, including applications to other disciplines.  However, while we do recommend giving a talk, it is not a requirement for conference participation. 
 
-<!--
+
 <p>To register for the conference and to submit a title and abstract for a student presentation, click the link below.</p>
 
 <p>
 <center>
-<button class="button"><a href="">Registration Has Closed</a></button>
+<button class="button"><a href="">(https://docs.google.com/forms/d/e/1FAIpQLSeGEUGVj5rWSqQs_saBAoYbjUi5G8kpfIUhm23oivsyhDcYvw/viewform?usp=header)</a></button>
 </center>
 </p>
 
+<!--
 <p>The deadline for registration and abstract submission was <b>Monday, March 6, 2017</b>.</p>
 
 The registration fee is **$30 per participant**. Typically, the registration fees are taken care of by each institution's faculty representative. To have your department pay NAU directly, please contact [Bea Gallegos](mailto:Beatrice.Gallegos@nau.edu). Bea can send an invoice to your department for processing. If you do not need an invoice, you can send a check or money order to:
