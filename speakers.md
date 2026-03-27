@@ -13,11 +13,11 @@ title: Faculty Speakers
 
 <h2>Dr. Kurt Herzinger</h2>
 
-<p>TBA</p>
+<p><img src="{{ site.baseurl }}/KurtSUnMaRC.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/> Kurt Herzinger received his bachelor’s degree, master’s degree, and Ph.D. in mathematics from the University of Nebraska – Lincoln. His graduate research was in commutative algebra with connections to numerical semigroup theory.  He earned his Ph.D. in 1996 and began work as an assistant professor of mathematics at West Texas A&M University.  In 1998, he took a position as an assistant professor at the United States Air Force Academy in Colorado Springs.  He was promoted to associate professor in 2001 and to full professor in 2006.  His research interests include problems in numerical semigoups and two-player combinatorial games.  He also dabbles in ancient Diophantine approximation techniques such as Greek ladders and continued fractions.</p>
 
-<p><b>Title:</b> TBA</p>
+<p><b>Title:</b> My Journey from Numerical Semigroups to Combinatorial Games</p>
 
-<p><b>Abstract:</b> TBA</p>
+<p><b>Abstract:</b> A numerical semigroup S is a submonoid of the non-negative integers with finite complement.  Problems related to numerical semigroups, including the famous Frobenius problem, have been studied for decades.  In this talk we will not examine numerical semigroups in detail but rather examine how my study of these structures led me to examine three different, but related, two-player combinatorial games including Conway’s game of Sylver Coinage, a new game called Destroy the Graph, and a variation on the game of Nim.  We will examine how these games are played, what is known about winning and losing positions, and offer some opportunities for undergraduate research.  We’ll also play some games during the presentation.</p>
 
 <h2>Dr. Hiram Beltran-Sanchez</h2>
 
