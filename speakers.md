@@ -5,7 +5,7 @@ title: Faculty Speakers
 
 <h2>Dr. Kathryn Bryant</h2>
 
-<p><img src="{{ site.baseurl }}/Bryant.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>TBA</p>
+<p><img src="{{ site.baseurl }}/KathrynSUnMaRC.jpeg" align="left" width="150" img style="margin: 8px 15px 0 0"/>TBA</p>
 
 <p><b>Title:</b> TBA</p>
 
