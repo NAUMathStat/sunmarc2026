@@ -19,7 +19,7 @@ title: Faculty Speakers
 
 <p><b>Abstract:</b> A numerical semigroup S is a submonoid of the non-negative integers with finite complement.  Problems related to numerical semigroups, including the famous Frobenius problem, have been studied for decades.  In this talk we will not examine numerical semigroups in detail but rather examine how my study of these structures led me to examine three different, but related, two-player combinatorial games including Conway’s game of Sylver Coinage, a new game called Destroy the Graph, and a variation on the game of Nim.  We will examine how these games are played, what is known about winning and losing positions, and offer some opportunities for undergraduate research.  We’ll also play some games during the presentation.</p>
 
-<h2>Dr. Hiram Beltran-Sanchez</h2>
+<h2>Dr. Hiram Beltrán-Sánchez</h2>
 
 <p><img src="{{ site.baseurl }}/HiramSUnMaRC.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>Dr. Beltrán-Sánchez’s research focuses on the demography of health and aging. He has written on health patterns and trends in low- and middle-income countries; on aging in high-income countries including issues about compression of morbidity; on the links between early life experiences and late life outcomes; as well as on biomarker data from Mexico to study physiological patterns of health and their link with sociodemographic factors. Dr. Beltrán-Sánchez is also Associate Director of the UCLA California Center for Population Research (CCPR) and co-director of the T32 training grant at CCPR.</p>
 
