@@ -21,7 +21,7 @@ title: Faculty Speakers
 
 <h2>Dr. Hiram Beltran-Sanchez</h2>
 
-<p>TBA</p>
+<p><img src="{{ site.baseurl }}/HiramSUnMaRC.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>Dr. Beltrán-Sánchez’s research focuses on the demography of health and aging. He has written on health patterns and trends in low- and middle-income countries; on aging in high-income countries including issues about compression of morbidity; on the links between early life experiences and late life outcomes; as well as on biomarker data from Mexico to study physiological patterns of health and their link with sociodemographic factors. Dr. Beltrán-Sánchez is also Associate Director of the UCLA California Center for Population Research (CCPR) and co-director of the T32 training grant at CCPR.</p>
 
 <p><b>Title:</b> TBA</p>
 
