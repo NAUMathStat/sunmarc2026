@@ -9,7 +9,7 @@ title: Faculty Speakers
 
 <p><b>Title:</b> The Math of AI Hallucinations</p>
 
-<p><b>Abstract:</b> TBA</p>
+<p><b>Abstract:</b> Large language models (LLMs) like ChatGPT and Claude generate fluent, convincing text—and sometimes get things completely wrong. This talk explores the mathematical machinery that makes such hallucinations not just possible but (so far) inevitable. Starting from the basics of tokenization and conditional probability, we build up to embeddings, cosine similarity, and the attention mechanism. We then examine how intrinsic, extrinsic, and factual hallucinations arise as natural consequences of the model architecture and reward function. Finally, we discuss how a data scientist who uses LLM’s in professional applications might quantify a model’s tendency to hallucinate. The talk is aimed at undergraduate math majors and assumes familiarity with linear algebra and basic probability.</p>
 
 <h2>Dr. Kurt Herzinger</h2>
 
