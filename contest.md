@@ -20,4 +20,3 @@ Every year at SUnMaRC, there is a student Problem Contest that runs concurrently
 - The top 3 individual scores will receive a prize.
 - The team and individual awards will be announced on Sunday at 10:45am in the LMC main lobby.
 
-You can find a PDF version of the contest rules [here](https://naumathstat.github.io/sunmarc2017/contest.pdf).
