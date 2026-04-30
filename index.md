@@ -16,5 +16,6 @@ If you have any questions about this year's SUnMaRC, please contact one of the c
 - [Ryn Huesgen](mailto:Ryn.Huesgen@nau.edu)
 
 The conference is funded by <a href="[http://nau.edu](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2402549)">NSF DMS grant #2402549.</a> 
+<img src="{{ site.baseurl }}/NSFlogo.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>
 
 <p>This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://hyde.getpoole.com">Hyde</a>. You can find the <a href="http://github.com/NAUMathStat/seminars">source code</a> on GitHub. The site is maintained by <a href="http://dcernst.github.io">Dana C. Ernst</a>. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
