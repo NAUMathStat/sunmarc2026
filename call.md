@@ -8,3 +8,5 @@ title: Call for Presentations
 SUnMaRC provides a setting for undergraduates to share mathematical work and connect with students and faculty.
 
 Submission instructions, abstract requirements, presentation lengths, deadlines, and available room equipment will be posted once confirmed. See [Registration & Abstract Submission]({{ site.baseurl }}/registration/) for updates.
+
+I've edited this file.
